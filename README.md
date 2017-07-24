@@ -1,2 +1,3 @@
-# 3drpg
-3D Low poly RPG
+# 3D RPG Game
+3D Low poly RPG game
+Made by SolidJuho
